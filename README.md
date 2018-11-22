@@ -7,6 +7,8 @@ The eBot is a full managed server-bot written in PHP and nodeJS. eBot features e
 This is the web panel for [eBot-CSGO](https://github.com/deStrO/eBot-CSGO)
 The panel is based on Symfony 1.4
 
+// TODO : Update to Symfony 3.4 LTS
+
 ## Requirements
 * Linux, Windows
 * PHP 5.3 or newer
